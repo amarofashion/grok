@@ -18,7 +18,7 @@ To deeply understand something is hard, takes effort and time, so it's rare but 
 
 ## Topics
 
-**NOTE:** Topis are orderedalphabetically.
+**NOTE:** Topis are ordered alphabetically.
 
 - [Android development]()
 - [Back-end development]()
