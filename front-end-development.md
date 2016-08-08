@@ -6,14 +6,16 @@ Before you dive deep in our front-end environment & workflow, take some time to 
 
 ## HTML
 
-- [Prefetching, preloading, prebrowsing](https://css-tricks.com/prefetching-preloading-prebrowsing/)
+- [Prefetching, preloading, prebrowsing](https://css-tricks.com/prefetching-preloading-prebrowsing/) `article`
 
 ## CSS
 
-- [Medium's CSS is actually pretty f***ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06#.m2iimjghi)
+- [Medium's CSS is actually pretty f***ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06#.m2iimjghi) `article`
 
 ## JavaScript
 
+- ...
+
 ## Performance
 
-- [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
+- [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/) `article`
